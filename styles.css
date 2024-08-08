@@ -1,3 +1,15 @@
 body{
     background-color: rgb(234, 215, 156);
 }
+h2{
+    color: rgb(226, 50, 50);
+}
+p{
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    font-style:oblique;
+    font-weight: bolder;
+}
+#title{
+    color: red;
+}
